@@ -53,8 +53,6 @@ A Python-based application that hides secret information inside images using the
 
 🥇 Smart Bus — Main Project
 
-README-la first project-a Smart Bus-a podalam.
-
 But bro, Smart Bus project-la exact-a nee already implement pannirukkura features therinja dhaan recruiter-friendly description correct-a write panna mudiyum.
 
 For example, possible sections:
