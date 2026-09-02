@@ -52,7 +52,7 @@ A Python-based application that hides secret information inside images using the
 ---
 
 🥇 Smart Bus — Main Project
-
+---
 “My project is called SmartBus – Bus Management and Tracking System.
 
 The main objective of this project is to provide a centralized system for managing and viewing bus-related information.
@@ -73,7 +73,7 @@ For the frontend, I used HTML, CSS, and JSP. For the backend, I used Java Servle
 👤 User management
 📊 Admin dashboard
 🗺️ Live location/tracking
----
+
 ### 🌐 Personal Portfolio Website
 
 A responsive portfolio website created to showcase my **skills, projects, education and career profile**.
