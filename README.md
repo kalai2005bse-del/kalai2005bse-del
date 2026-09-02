@@ -73,7 +73,7 @@ For the frontend, I used HTML, CSS, and JSP. For the backend, I used Java Servle
 👤 User management
 📊 Admin dashboard
 🗺️ Live location/tracking
-
+---
 ### 🌐 Personal Portfolio Website
 
 A responsive portfolio website created to showcase my **skills, projects, education and career profile**.
