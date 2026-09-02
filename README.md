@@ -53,9 +53,17 @@ A Python-based application that hides secret information inside images using the
 
 🥇 Smart Bus — Main Project
 
-But bro, Smart Bus project-la exact-a nee already implement pannirukkura features therinja dhaan recruiter-friendly description correct-a write panna mudiyum.
+“My project is called SmartBus – Bus Management and Tracking System.
 
-For example, possible sections:
+The main objective of this project is to provide a centralized system for managing and viewing bus-related information.
+
+In this application, there are mainly two modules: Admin and User.
+
+The Admin can manage bus details, bus routes, bus timings, driver details, and bus tracking information. The admin can perform operations such as Add, Edit, Delete, Search, and Update.
+
+The User can view bus details, available routes, route maps, bus timings, driver details, and bus tracking information. Users have view access and cannot modify the data.
+
+For the frontend, I used HTML, CSS, and JSP. For the backend, I used Java Servlets. For database connectivity, I used JDBC, and MySQL is used as the database. I used the DAO design pattern to separate database operations from the controller logic. The application runs on Apache Tomcat Server.
 
 🚌 Bus search
 📍 Route information
