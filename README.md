@@ -51,23 +51,22 @@ A Python-based application that hides secret information inside images using the
 
 ---
 
-### 🔗 Spring Boot Microservices
+🥇 Smart Bus — Main Project
 
-Hands-on implementation of a microservices architecture using separate services and service discovery.
+README-la first project-a Smart Bus-a podalam.
 
-**Implemented concepts:**
+But bro, Smart Bus project-la exact-a nee already implement pannirukkura features therinja dhaan recruiter-friendly description correct-a write panna mudiyum.
 
-* Student Service
-* Course Service
-* Eureka Service Discovery
-* REST API communication
-* RestClient
-* Service-to-service communication
+For example, possible sections:
 
-**Technologies:**
-`Java` `Spring Boot` `REST APIs` `RestClient` `Eureka` `Maven`
-
----
+🚌 Bus search
+📍 Route information
+🕐 Bus timing
+📌 Bus stop details
+🔎 Search/filter
+👤 User management
+📊 Admin dashboard
+🗺️ Live location/tracking
 
 ### 🌐 Personal Portfolio Website
 
